@@ -14,6 +14,7 @@ public class Test_conn {
 		op.testOracle("select * from goods where name = ? and price = ?"); 
 		//op.testOracle("select * from goods where name = book and price = 34"); //why book 标识符无效???
 		//如果有where必须用?   ???
+		//up
 		op.disconnectOracle();
    }
 }
