@@ -7,3 +7,4 @@ create table test_sql_lx (
 );
 --drop 可以使用
 --select 可以使用
+--up
